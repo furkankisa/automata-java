@@ -1,0 +1,9 @@
+q0
+q2
+eklenen q1 0
+eklenen q2 1
+q1
+eklenen q0 0
+eklenen q1 1
+eklenen q0 0
+eklenen q1 1
